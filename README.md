@@ -1,4 +1,4 @@
-# Micrograd Clone in Python 🔥
+# Micrograd Clone in Python
 
 This is a tiny neural net + autograd engine inspired by [micrograd](https://github.com/karpathy/micrograd). It supports scalar reverse-mode autodiff and builds a small MLP from scratch.
 
